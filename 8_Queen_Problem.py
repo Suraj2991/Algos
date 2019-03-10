@@ -49,4 +49,5 @@ def main():
         drawboard()
 
 board = np.zeros((8,8), dtype=bool)
+
 main()
