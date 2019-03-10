@@ -12,4 +12,5 @@ def tower(no_discs, frompeg, topeg, auxpeg):
 def main():
     no_disc = int(input('Enter the number of Discs'))
     print('We want to move ', str(no_disc), ' discs from Peg A to Peg C via Peg B')
+
     tower(no_disc, 'A', 'C', 'B')
