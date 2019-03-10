@@ -1,5 +1,4 @@
 def tower(no_discs, frompeg, topeg, auxpeg):
-    #print(no_discs)
     if(no_discs == 1):
         print("Move disk 1 from peg ", frompeg, " to peg ", topeg)
         return
