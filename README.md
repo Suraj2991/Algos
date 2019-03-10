@@ -1,0 +1,2 @@
+# Algos
+All Basic Algorithms
